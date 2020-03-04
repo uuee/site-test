@@ -9,8 +9,8 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 heading: Lorem ipsum dolor sit amet
 description: >-
-ここがデスクリプションの場所ですん。 
-わかりますか？
+  ここがデスクリプションの場所ですん。 
+  わかりますか？
 offerings:
   blurbs:
     - image: /img/coffee.png
